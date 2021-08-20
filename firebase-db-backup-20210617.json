@@ -1,0 +1,305 @@
+{
+  "discover" : {
+    "areas" : {
+      "area1" : {
+        "content" : "Bruce Pulman Park is a world-class Sport and Recreation Park in Papakura, south Auckland. Their facilities are geared towards community excellence at all levels. The Park is the home of state-of-the-art facilities, including a purpose-built gymnastics and trampoline facility, a multi-purpose indoor Arena, outdoor netball courts, sand-based and grass fields, cricket ovals, and a multi-use Teamsports building whilst also offers upscale sports team and group accommodation.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/images%2FBruce%20Pullman.jpg?alt=media&token=d55afc8e-3746-459d-ac79-0d0430fc7f9c",
+        "title" : "Bruce Pulman Park"
+      },
+      "area2" : {
+        "content" : "Papakura Normal School is a coeducational state primary school of Papakura in Auckland, New Zealand. The school is located approximately 30 kilometres south of the Auckland City Centre, situated on the suburban boundary of Takanini and Papakura. The school educates children from years 0 to 8.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/images%2FPapakura%20Normal%20School.JPG?alt=media&token=88133164-c6c8-4170-b5b5-2f6dda63acde",
+        "title" : "Papakura Normal Primary School"
+      },
+      "area3" : {
+        "content" : "Papakura. Papakura Military Camp was established in 1939 and is situated in a semi-rural area near Papakura town centre. The camp is the base for New Zealand’s Special Air Services (SAS) and support services. In 2016, a specialist training facility was opened – a sign of things to come for other parts of our Defence estate and facilities.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/images%2Fpapakura%20military%20cap.jpg?alt=media&token=c8aba93c-92d6-44eb-8902-85ae74f70d8a",
+        "title" : "Papakura Military Camp"
+      },
+      "area4" : {
+        "content" : "McLennan is a new community-focused development being built between the open spaces and recreational parks of Papakura and Takanini. Meeting the demand for quality, affordable housing in Auckland’s thriving south east, McLennan will feature over 600 architecturally-designed homes, expertly master planned to create a thriving neighbourhood.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/images%2Fmc%20lennan%20park.JPG?alt=media&token=4d660ed9-2dba-4c5d-91d3-82debf1bde65",
+        "title" : "McLennan Park"
+      },
+      "area5" : {
+        "content" : "It is the council’s newest community facility and will provide visitors with a new space to call home. Auckland Mayor Phil Goff was on hand to officially open the hub, which includes library and community services and is located within the Takanini Village shopping centre, where the council has taken a long-term lease to house the facility.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/Takanini%20Library.JPG?alt=media&token=d1f66000-5eeb-4332-82db-a38b6af9b125",
+        "title" : "Te Paataka Koorero o Takaanini – Taakanini Community Hub"
+      },
+      "area6" : {
+        "content" : "The Sir Edmund Hillary Library is a suburban library in Auckland, New Zealand. Papakura’s first municipal library was established in 1914 when the Papakura Town Board took over a small subscription library run by the Papakura Literary Association since 1871. One of the library’s first homes was a former toll-house beside the Great South Road, but over the years the library service was moved several times until it finally moved into its present home in the Accent Point building in 2010.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/images%2Fedmund%20hilary.jpg?alt=media&token=e229049f-cf77-471c-9c22-b4491b4a5179",
+        "title" : "Sir Edmund Hilary Library Papakura"
+      },
+      "area7" : {
+        "content" : "At the CAB they try to help people to know and understand their rights and obligations and how to use this information to get the best outcomes, provide people with the confidence and support they need to take action, and work for positive social change within communities and wider society. They provide a free and independent service to all.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/images%2FR6a57bb58db0be3427b8fbbbc24027c3d.jpg?alt=media&token=e150baf1-3248-4358-95c6-e8b438d42ddb",
+        "title" : "Citizens Advice Bureau – Papakura"
+      }
+    },
+    "awakeriwetlands" : {
+      "content" : "<p>The flat farmland east of Takanini has been designated for residential development under Auckland’s Unitary Plan. The underlying peat soils here however are subject to frequent flooding and this hinders the land’s capacity for housing. In order to minimise the flooding risk, a ‘conveyance channel’ has been designed. This channel is effectively some 2100 linear metres of new watercourse, which will be designed to provide a range of different habitat types, and will be lined on both sides with eco-sourced native vegetation. Neighbouring developments will be designed to fall towards this channel, which will deliver stormwater to a series of wetlands at McLennan Park. These wetlands will detain peak flood flows and filter pollutants from the stormwater, before it continues out via a piped system to the Pahurehure Inlet. Awakeri is the name of a project that involves the transformation of flat farmland into over two kilometres of waterway and open green space.</p> <p>The area where Awakeri is located provided important access for travellers in pre-European times and later in the early settler and military periods. With Manukau Harbour to the west and the Hūnua Ranges to the southeast, it was highly utilised as a link between Tāmaki Makaurau and the Waikato. Te Ākitai, Ngāi Tai, Ngāti Tamaoho and Ngāti Pou are iwi who formed part of a wider confederation known as Te Waiohua and whakapapa to the area (Lawlor 1994:2). Others with close cultural associations, including those that we are collaborating with such as Ngāti Te Ata, Ngai Taki Ki Tāmaki, Ngāti Tamaoho, Ngati Te Ata Waiohua and Te Akitai Waiohua were also part of the confederation. Ngāti Pou are not an active iwi currently.</p> <p>With more than 2000 new homes being constructed in the area, the waterway will provide a central channel for a new community to grow around, encourage revitalisation of natural ecologies, and engage with the new pedestrian-focused urban environment.</p>",
+      "subcontent" : "<p>The flat farmland east of Takanini has been designated for residential development under Auckland’s Unitary Plan. The underlying peat soils here however are subject to frequent flooding and this hinders the land’s capacity for housing. In order to minimise the flooding risk, a ‘conveyance channel’ has been designed. This channel is effectively some 2100 linear metres of new watercourse, which will be designed to provide a range of different habitat types, and will be lined on both sides with eco-sourced native vegetation. Neighbouring developments will be designed to fall towards this channel, which will deliver stormwater to a series of wetlands at McLennan Park. These wetlands will detain peak flood flows and filter pollutants from the stormwater, before it continues out via a piped system to the Pahurehure Inlet. Awakeri is the name of a project that involves the transformation of flat farmland into over two kilometres of waterway and open green space.</p> <p>The area where Awakeri is located provided important access for travellers in pre-European times and later in the early settler and military periods. With Manukau Harbour to the west and the Hūnua Ranges to the southeast, it was highly utilised as a link between Tāmaki Makaurau and the Waikato. Te Ākitai, Ngāi Tai, Ngāti Tamaoho and Ngāti Pou are iwi who formed part of a wider confederation known as Te Waiohua and whakapapa to the area (Lawlor 1994:2). Others with close cultural associations, including those that we are collaborating with such as Ngāti Te Ata, Ngai Taki Ki Tāmaki, Ngāti Tamaoho, Ngati Te Ata Waiohua and Te Akitai Waiohua were also part of the confederation. Ngāti Pou are not an active iwi currently.</p> <p>With more than 2000 new homes being constructed in the area, the waterway will provide a central channel for a new community to grow around, encourage revitalisation of natural ecologies, and engage with the new pedestrian-focused urban environment.</p>",
+      "subtitle" : "Awakeri Wetlands",
+      "title" : "Awakeri Wetlands"
+    },
+    "community" : {
+      "community1" : {
+        "description" : "List of local community groups and organisations in Papakura",
+        "link" : "https://www.yourpapakura.nz/directory.html",
+        "name" : "Community Directory"
+      },
+      "community2" : {
+        "description" : "The latest events happening in, and around, the Papakura area",
+        "link" : "https://www.yourpapakura.nz/events.html",
+        "name" : "Community Events Calendar"
+      }
+    },
+    "florafauna" : {
+      "cabbage-tree" : {
+        "category" : "Special Area",
+        "description" : "Cabbage Tree",
+        "ffcat" : "Special Area",
+        "ffimg" : "https://cdn.pixabay.com/photo/2016/11/24/22/11/water-lily-1857350_960_720.jpg",
+        "ffname" : "Cabbage Tree",
+        "image" : "https://cdn.pixabay.com/photo/2016/11/24/22/11/water-lily-1857350_960_720.jpg",
+        "name" : "Cabbage Tree",
+        "slug" : "cabbage-tree"
+      },
+      "cutty-grass" : {
+        "category" : "Lower Bank",
+        "description" : "Cutty Grass",
+        "ffcat" : "Lower Bank",
+        "ffimg" : "https://cdn.pixabay.com/photo/2016/12/05/16/46/pine-1884335_960_720.jpg",
+        "ffname" : "Cutty Grass",
+        "image" : "https://cdn.pixabay.com/photo/2016/12/05/16/46/pine-1884335_960_720.jpg",
+        "name" : "Cutty Grass",
+        "slug" : "cutty-grass"
+      },
+      "manuka" : {
+        "category" : "Aquatic Area",
+        "description" : "Manuka",
+        "ffcat" : "Aquatic Area",
+        "ffimg" : "https://cdn.pixabay.com/photo/2016/11/02/13/01/winter-1791370_960_720.jpg",
+        "ffname" : "Manuka",
+        "image" : "https://cdn.pixabay.com/photo/2016/11/02/13/01/winter-1791370_960_720.jpg",
+        "name" : "Manuka",
+        "slug" : "manuka"
+      },
+      "pukio" : {
+        "category" : "Upper Bank",
+        "description" : "Pukio",
+        "ffcat" : "Upper Bank",
+        "ffimg" : "https://cdn.pixabay.com/photo/2015/10/22/17/45/leaf-1001679_960_720.jpg",
+        "ffname" : "Pukio",
+        "image" : "https://cdn.pixabay.com/photo/2015/10/22/17/45/leaf-1001679_960_720.jpg",
+        "name" : "Pukio",
+        "slug" : "pukio"
+      }
+    },
+    "history" : {
+      "history1" : {
+        "content" : "<p>Pukekoiwiriki Pā (Pā) and its environs hold considerable historical signifi cance for Māori. The area is associated with key events and individuals and plays an integral part in the traditional stories of a number of Iwi who whakapapa to this area. The geographical location of the Pā was strategic and alone tells of its importance in the defence system associated with the wider area. The importance of the setting was due to the wide visual attributes providing views through to Tāmaki Makaurau/Auckland, along the inner reaches of Te Manukanuka o Hoturoa/Manukau Harbour, across the plains of Papakura and back to the hills of the Hunua Ranges. From these ranges to the east, the relationship between Papakura and over to the Wharekawa block and in particular Tikapa Moana / Hauraki Gulf is worthy of noting. Expansive views, proximity to local kainga and easy access to Kirikiri Stream (Hays Stream) were other advantages of the site. The Pā served as a stronghold, observation post and a place of both refuge and defence for the local kainga, in particular Te Aparangi, as well as a storage site for produce, most likely kumara.</p>         ",
+        "title" : "Wider Landscape Context"
+      },
+      "history2" : {
+        "content" : "Awakeri Wetland also has a deeply sensitive connection to the Land Wars of 1863 and prior to that the most well know land transaction known as the Fairburn purchase where approximately 83,000 acres of land was ‘sold’ to William Fairburn of the Church Missionary Society in 1836. Post signing of the Treaty of Waitangi of 1840, all pre-Treaty land sales were subsequently examined which only allowed William Fairburn to keep just under 3,000 acres. The remainder was retained by the Crown as ‘surplus’ lands and largely sold into private ownership. Mana Whenua have an opportunity to return to uphold the intimacy that they once shared with this land and their ancestors now passed on to re-tell those connections to the whenua.",
+        "title" : "Mana Whenua"
+      },
+      "history3" : {
+        "content" : "The Takaanini area formed part of a key passage for Maori between the shores of the Manukau Harbour and Wairoa (Clevedon) and the Hunua Ranges. It also formed part of the Ararimu Track, a highly strategic and well-utilised waka route between the Waikato and Hauraki Gulf. The track was noted as skirting the Papakura Swamp, passing through the  Hunua  Ranges  to  the  headwaters  of  the  Mangatawhiri  Creek;  the  Papakura  Swamp  being  the  location  of  the  proposed Awakeri Wetlands. </p><p>On  the  ’Papakura  side’  of  the  Hingaia  peninsula,  at  Chalky  Point,  was  a  canoe  landing  from  where  a  track  led  to  Waipapa at the head of the Pahurehure Inlet. The waterways around Hingaia were frequently used to gain access to Pukekoiwiriki and the neighbouring settlement of Te Aparangi as well as the pā at Slippery Creek and the Opaheke settlement.",
+        "title" : "Trails to maunga pa and beyond"
+      },
+      "history4" : {
+        "content" : "Missionaries had been travelling through the Papakura and Drury areas from 1834, staying at the Maori village of Opaheke near the mouth of Slippery Creek. Early settlers arrived not long after in the mid-late 1850s, initially residing in whares, often constructed by local Maori, until more substantial housing could be erected.Timber  for  construction,  often  heart  kauri,  was  obtained  either  from  local  stands  of  native  bush  located  throughout  the  Papakura District area or from swampy areas. <p>The New Zealand Wars of the 1860s saw an infl ux of military personnel to the Papakura District with Papakura and Drury becoming military garrisons. The Papakura District became a central player in the build up to the Waikato Campaign with improvements to, and the extension of, the Great South Road ensuring that it became the main land transport route to the Waikato. Several military redoubts including Kirikiri (Ring’s), Campbell’s, Drury Redoubt and Commissariat Redoubt were constructed. </p><p>European settlement increased following the confi scation and subsequent sale of Ihaka Takaanini’s lands under the Waikato Immigration Scheme. In 1865 the land to the east of the present railway was subdivided into farming blocks and lots for Scottish settlers from the ship Viola. Emigrants from the Cape settled in Drury. </p>",
+        "title" : "Missionaries and settlers"
+      },
+      "history5" : {
+        "content" : "An increasing number of European settlers requiring construction material, and the timber trade in general, saw the erection of several sawmills throughout the district including: the Mill Road sawmill, Alfriston and the Marx sawmill, with the last known timber mill erected around 1900 at Philip Road, Alfriston. Provisions for the timber workers in the Hunua Bush were to be had at the Travellers’ Rest, the most famous hostelry in the district, located on Wairoa Road and a landmark until it was demolished in the 1880s.</p>",
+        "title" : "Stone and timber"
+      },
+      "history6" : {
+        "content" : "Following clearance of forested land for pastoral or agricultural purposes, land where kauri previously stood was dug for gum. It was initially easy to harvest kauri gum by surface collection but as demand increased from 1850 onwards, subterranean deposits  from  long-departed  kauri  forests  were  exploited  by  means  of  long  spears  and  spades.  Gumfi  elds  were  located  relatively close to the Auckland market, around Papakura and Riverhead. The gum spears used by diggers in Papakura are believed to have been made at Wilson’s blacksmith forge at Papakura.<p>The location of the Papakura diggings, generally referred to as “The Flats” is approximately at the Military Camp site in the vicinity of Walters Road, Takanini (the Papakura Swamp referred to earlier). The northern boundary was Alfriston, to the east Ardmore extending as far as Clevedon, and the Manukau Harbour to the west. In 1890 over a thousand men, many being  Maori,  came  to  the  Papakura  gumfi  elds  in  the  hope  of  making  a  living.  A  semi-permanent  camp  was  established;  named the “Willow Camp”, so called because of an isolated willow tree which grew there and was ’a well-known landmark in  early  times’.  The  Papakura  Flat  was  the  site  of  a  buried  kauri  forest  and,  as  it  was  gradually  cleared  of  gum  and  tree  trunks, the land was converted to farmland. This area is the site of the Awakeri wetlands. By the 1940s the gum industry was coming to an end as cheaper materials were invented for making varnish.</p>",
+        "title" : "The Flats"
+      },
+      "history7" : {
+        "content" : "The bloodstock and racing industries were an early part of the historic character of Takanini. The fi rst track was built by Mr Walters during the 1860s. Named the Glenora Park racetrack, the fi rst meet was held there in 1872. The grandstand lodged many of the gumdiggers operating in the Takanini area but was lost to fi re in 1899. <p>Glenora Park became the race track which was later owned by the Takanini Training Track Ltd which onsold to the Auckland Racing Club in the 1920s. Champion racehorses like Uncle Remus, Bonecrusher and Sunline once trained here. The facility has recently been moved but a number of trainers remain in the district.</p>",
+        "title" : "Bloodstock and racing industries"
+      },
+      "history8" : {
+        "content" : "The site where the Walsh Brothers flew New Zealand’s fi rst powered aircraft, Manurewa on February 5 1911 is in this area. The fl  ight  took  place  within  a  single  paddock,  the  steeplechase  part  of  the  Papakura  racecourse.  The  defunct  Papakura  Racing Club had held its fi nal race meeting only a fortnight earlier, on 20 January 1911. The Auckland Aeroplane Syndicate comprised the Walsh brothers and three investors. <p>The fl ight on 5 February coincided with Leo Walsh’s 30th birthday and was observed by the brothers’ father, Austin Walsh JP, sisters Veronica and Doreen Walsh, as well as some local residents. No description of the height or distance achieved survives.  Another  fl  ight  with  Syndicate  members  in  attendance  took  place  four  days  later,  on  9  February.  With  Vivian  again piloting, the Manurewa rose over 6 m from the ground and travelled a distance of 300–400 m. With no brakes, and insuffi cient ground to slow down, the machine ran into a fence after landing. The Walsh brothers went on to establish the infl uential New Zealand Flying School, with Vivian becoming the fi rst New Zealander to obtain a pilot’s licence</p>",
+        "title" : "The first powered flight in New Zealand"
+      }
+    },
+    "tidykiwi" : {
+      "content" : "<p>You can protect wetlands by:</p><ul> <li>using existing tracks and boardwalks and observing from the edges</li></li>not disturbing wildlife - take binoculars and use bird hides</li><li>maintaining natural flow of water</li><li>cleaning your footwear</li><li>cleaning fishing and boating equipment to stop the spread of Didymo</li><li>keeping litter and garden waste out of wetlands</li><li>keeping dogs from wetland areas</li><li>keeping stock from wetland areas through fencing</li><li>controlling pest plants and animals in and around wetlands.</li></ul>     ",
+      "subcontent" : "<p>You can protect wetlands by:</p><ul> <li>using existing tracks and boardwalks and observing from the edges</li></li>not disturbing wildlife - take binoculars and use bird hides</li><li>maintaining natural flow of water</li><li>cleaning your footwear</li><li>cleaning fishing and boating equipment to stop the spread of Didymo</li><li>keeping litter and garden waste out of wetlands</li><li>keeping dogs from wetland areas</li><li>keeping stock from wetland areas through fencing</li><li>controlling pest plants and animals in and around wetlands.</li></ul>     ",
+      "subtitle" : "Looking after wai and te taiao - te mauri o te wai",
+      "title" : "Looking after wai and te taiao - te mauri o te wai"
+    }
+  },
+  "flamelink" : {
+    "media" : {
+      "folders" : {
+        "1623908204275" : {
+          "id" : 1623908204275,
+          "name" : "Root",
+          "order" : 0,
+          "parentId" : 0
+        }
+      }
+    },
+    "permissions" : [ null, {
+      "environments" : {
+        "production" : true
+      },
+      "id" : 1,
+      "locales" : {
+        "production" : {
+          "en-US" : {
+            "allow" : true
+          }
+        }
+      },
+      "media" : {
+        "create" : true,
+        "delete" : true,
+        "update" : true,
+        "view" : true
+      },
+      "name" : "Super Admin",
+      "navigation" : {
+        "production" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        }
+      },
+      "permissions" : {
+        "create" : true,
+        "delete" : true,
+        "update" : true,
+        "view" : true
+      },
+      "schemas" : {
+        "production" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        }
+      },
+      "settings" : {
+        "backups" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "customLinks" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "environments" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "general" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "globals" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "locales" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "workflows" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        }
+      },
+      "users" : {
+        "create" : true,
+        "delete" : true,
+        "update" : true,
+        "view" : true
+      },
+      "webhooks" : {
+        "create" : true,
+        "delete" : true,
+        "update" : true,
+        "view" : true
+      }
+    } ],
+    "settings" : {
+      "defaultLocale" : "en-US",
+      "environments" : {
+        "production" : {
+          "id" : "production",
+          "name" : "Production"
+        }
+      },
+      "general" : {
+        "defaultPermissionsGroup" : "1",
+        "imageSizes" : [ {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 375
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 667
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 900
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 1080
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 1440
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 1920
+        } ]
+      },
+      "locales" : {
+        "en-US" : {
+          "id" : "en-US",
+          "name" : "English (USA)"
+        }
+      }
+    },
+    "users" : {
+      "1A0ayNm2CyductaAW0Zj197MYLA2" : {
+        "displayName" : "Eddril Lacorte",
+        "email" : "eddril.lacorte@gmail.com",
+        "enabled" : "Yes",
+        "firstName" : "",
+        "id" : "1A0ayNm2CyductaAW0Zj197MYLA2",
+        "lastName" : "",
+        "permissions" : 1
+      }
+    }
+  }
+}

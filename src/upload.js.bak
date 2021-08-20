@@ -1,0 +1,21 @@
+import React from 'react';
+import './App.css';
+
+//Flickr Test
+class Upload extends React.Component {
+  render() {
+    return (
+    <form enctype="multipart/form-data" method="post"  action="http://api.flickr.com/services/upload/">
+        <input type="file" name="photo"/>
+        <input type="text" name="title" placeholder="Title"/>
+        <input type="hidden" name="api_key" value="3103f8ab8cd0e9ed3b325938f3145f95"/>
+        <input type="hidden" name="auth_token" value=""/>
+        <input type="hidden" name="api_sig" value=""/>
+        <input type="submit" name ="submit" value="Upload"/>
+    </form>
+    );
+  }
+
+}
+
+export default Upload;

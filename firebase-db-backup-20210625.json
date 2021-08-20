@@ -1,0 +1,1188 @@
+{
+  "flamelink" : {
+    "environments" : {
+      "production" : {
+        "content" : {
+          "areasOfInterests" : {
+            "en-US" : {
+              "__meta__" : {
+                "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+                "createdDate" : "2021-06-17T21:03:46.758Z",
+                "lastModifiedBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+                "lastModifiedDate" : "2021-06-17T21:14:40.106Z"
+              },
+              "content" : "<h3>Bruce Pulman Park</h3>\n<p></p>\n<img src=\"https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/flamelink%2Fmedia%2F1623963813927_Bruce%20Pullman.jpeg?alt=media&token=e600feb3-1035-4d6e-85e5-1a3d9cbf5b6a\" alt=\"\" style=\"height: auto;width: 100%\"/>\n<p></p>\n<p>Bruce Pulman Park is a world-class Sport and Recreation Park in Papakura, south Auckland. Their facilities are geared towards community excellence at all levels. The Park is the home of state-of-the-art facilities, including a purpose-built gymnastics and trampoline facility, a multi-purpose indoor Arena, outdoor netball courts, sand-based and grass fields, cricket ovals, and a multi-use Team sports building whilst also offers upscale sports team and group accommodation.</p>\n<p><a href=\"https://www.brucepulmanpark.com/\" target=\"_blank\">Website</a>&nbsp;</p>\n<h3>Papakura Normal Primary School</h3>\n<p></p>\n<img src=\"https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/flamelink%2Fmedia%2F1623963963277_Papakura%20Normal%20School.jpeg?alt=media&token=131ff7a3-62d7-4247-b101-9f01c0e16a3c\" alt=\"\" style=\"height: auto;width: 100%\"/>\n<p></p>\n<p>Papakura Normal School is a coeducational state primary school of Papakura in Auckland, New Zealand. The school is located approximately 30 kilometres south of the Auckland City Centre, situated on the suburban boundary of Takanini and Papakura. The school educates children from years 0 to 8.</p>\n<h3>Papakura Military Camp</h3>\n<p></p>\n<img src=\"https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/flamelink%2Fmedia%2F1623964055083_Papakura%20Military%20Camp.jpeg?alt=media&token=caec1e62-fa41-4867-b3e8-da5caca3d777\" alt=\"\" style=\"height: auto;width: 100%\"/>\n<p></p>\n<p>Papakura. Papakura Military Camp was established in 1939 and is situated in a semi-rural area near Papakura town centre. The camp is the base for New Zealands Special Air Services (SAS) and support services. In 2016, a specialist training facility was opened  a sign of things to come for other parts of our Defence estate and facilities.</p>\n<h3>McLennan Park</h3>\n<p></p>\n<img src=\"https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/flamelink%2Fmedia%2F1623964086951_McLennan%20Park.jpeg?alt=media&token=00b3ef63-9546-4e60-bd26-4427bbd32e1c\" alt=\"\" style=\"height: auto;width: 100%\"/>\n<p></p>\n<p>McLennan is a new community-focused development being built between the open spaces and recreational parks of Papakura and Takanini. Meeting the demand for quality, affordable housing in Aucklands thriving south east, McLennan will feature over 600 architecturally-designed homes, expertly master planned to create a thriving neighbourhood.</p>\n<h3>Te Paataka Koorero o Takaanini  Taakanini Community Hub</h3>\n<p></p>\n<img src=\"https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/flamelink%2Fmedia%2F1623964141962_Taakanini%20Community%20Hub.jpeg?alt=media&token=c7be2a70-bf3b-4861-900a-39a0f17896da\" alt=\"\" style=\"height: auto;width: 100%\"/>\n<p></p>\n<p>It is the councils newest community facility and will provide visitors with a new space to call home. Auckland Mayor Phil Goff was on hand to officially open the hub, which includes library and community services and is located within the Takanini Village shopping centre, where the council has taken a long-term lease to house the facility.</p>\n<h3>Sir Edmund Hilary Library Papakura</h3>\n<p></p>\n<img src=\"https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/flamelink%2Fmedia%2F1623964168021_Sir%20Edmund%20Hilary%20Library.jpeg?alt=media&token=825bfe26-1449-40b6-b6db-93f5200eeb34\" alt=\"\" style=\"height: auto;width: 100%\"/>\n<p></p>\n<p>The Sir Edmund Hillary Library is a suburban library in Auckland, New Zealand. Papakuras first municipal library was established in 1914 when the Papakura Town Board took over a small subscription library run by the Papakura Literary Association since 1871. One of the librarys first homes was a former toll-house beside the Great South Road, but over the years the library service was moved several times until it finally moved into its present home in the Accent Point building in 2010.</p>\n<h3>Citizens Advice Bureau  Papakura</h3>\n<p></p>\n<img src=\"https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/flamelink%2Fmedia%2F1623964236470_Citizens%20Advice%20Bureau.jpeg?alt=media&token=f0471e23-57de-4232-8d3f-48a9f5569305\" alt=\"\" style=\"height: auto;width: 100%\"/>\n<p></p>\n<p>At the CAB they try to help people to know and understand their rights and obligations and how to use this information to get the best outcomes, provide people with the confidence and support they need to take action, and work for positive social change within communities and wider society. They provide a free and independent service to all.</p>\n<p></p>\n",
+              "id" : "areasOfInterests",
+              "order" : 0,
+              "parentId" : 0,
+              "title" : "Areas of Interests"
+            }
+          },
+          "awakeriWetlands" : {
+            "en-US" : {
+              "__meta__" : {
+                "createdBy" : "1A0ayNm2CyductaAW0Zj197MYLA2",
+                "createdDate" : "2021-06-17T06:00:11.095Z",
+                "lastModifiedBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                "lastModifiedDate" : "2021-06-23T11:03:03.737Z"
+              },
+              "content" : "<p>Awakeri wetlands is a signature project built to create healthy and connected waterways, shared cycleways and pathways and open green spaces to support restored natural habitats while resolving flooding and stormwater problems in the Takaanini area.</p>\n<iframe width=\"100%\" height=\"280\" src=\"https://www.youtube.com/embed/SuZUgoPu6Fg\" frameBorder=\"0\"></iframe>\n<p>The wetlands will detain peak flood flows and filter pollutants from stormwater, before it continues out via a piped system to the Pahurehure Inlet and then the Manukau Harbour. It will transform flat, flood-prone, peaty rural land into two kilometres of waterway and open green space to enable residential development of 162 hectares of land into modern housing for approximately 15,000 people.</p>\n<p>The channel has been named Awakeri by Mana Whenua to reflect the 'carved-out' nature of this man-made stormwater conveyance channel and the area has deep cultural significance to these iwi. Te Ākitai Waiohua, Ngāti Tamaoho, Ngāti Te Ata Waiohua and Ngāi Tai Ki Tāmaki whakapapa to this area, while the area is named after the ancestral chief of Te Ākitai, Ihaka Takaanini. The double vowel in Takaanini reflects the true dialect spelling of Ihaka's name and the Takaanini area.</p>\n",
+              "id" : "awakeriWetlands",
+              "order" : 0,
+              "parentId" : 0,
+              "title" : "Awakeri Wetlands"
+            }
+          },
+          "connectingCommunity" : {
+            "en-US" : {
+              "__meta__" : {
+                "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+                "createdDate" : "2021-06-17T21:20:54.651Z",
+                "lastModifiedBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+                "lastModifiedDate" : "2021-06-17T21:27:01.564Z"
+              },
+              "content" : "<h4>Community Directory</h4>\n<p>List of local community groups and organisations in Papakura.<br><a href=\"https://www.yourpapakura.nz/directory.html\" target=\"_blank\">Website</a></p>\n<h4>Community Events</h4>\n<p>The latest events happening in, and around, the Papakura area.<br><a href=\"https://www.yourpapakura.nz/events.html\" target=\"_blank\">Website</a></p>\n",
+              "id" : "connectingCommunity",
+              "order" : 0,
+              "parentId" : 0,
+              "title" : "Connecting Community"
+            }
+          },
+          "floraAndFauna" : {
+            "en-US" : {
+              "1623968977818" : {
+                "__meta__" : {
+                  "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+                  "createdDate" : "2021-06-17T22:29:37.818Z",
+                  "lastModifiedBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "lastModifiedDate" : "2021-06-24T02:14:55.553Z"
+                },
+                "id" : 1623968977818,
+                "image" : "https://firebasestorage.googleapis.com/v0/b/awakeri-wetlands.appspot.com/o/flamelink%2Fmedia%2F1080px-Taraire2367drupes.jpg?alt=media&token=fb45f2e9-2982-4ea5-ad20-62de19a4e733",
+                "latinName" : "Beilschmedia Tarari",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Taraire",
+                "slug" : "taraire"
+              },
+              "1623973138907" : {
+                "__meta__" : {
+                  "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+                  "createdDate" : "2021-06-17T23:38:58.907Z"
+                },
+                "id" : 1623973138907,
+                "image" : "https://cdn.pixabay.com/photo/2016/12/05/16/46/pine-1884335_960_720.jpg",
+                "latinName" : "Blechnum parrisiae",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Pukupuku",
+                "slug" : "pukupuku"
+              },
+              "1624137105440" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-19T21:11:45.441Z"
+                },
+                "id" : 1624137105440,
+                "image" : "https://cdn.pixabay.com/photo/2016/11/02/13/01/winter-1791370_960_720.jpg",
+                "latinName" : "Carex Virgata",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Purei, Mākura",
+                "slug" : "purei-makura"
+              },
+              "1624137166315" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-19T21:12:46.315Z"
+                },
+                "id" : 1624137166315,
+                "image" : "https://cdn.pixabay.com/photo/2015/10/22/17/45/leaf-1001679_960_720.jpg",
+                "latinName" : "Coprosma Robusta ",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Karamū",
+                "slug" : "karamu"
+              },
+              "1624137337839" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-19T21:15:37.839Z"
+                },
+                "id" : 1624137337839,
+                "image" : "",
+                "latinName" : "Coprosma Tenuicaulis ",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Hukihuki",
+                "slug" : "hukihuki"
+              },
+              "1624504622606" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:17:02.606Z"
+                },
+                "id" : 1624504622606,
+                "latinName" : "Cordyline Australis",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Tī Kouka",
+                "slug" : "ti-kouka"
+              },
+              "1624504639698" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:17:19.698Z",
+                  "lastModifiedBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "lastModifiedDate" : "2021-06-24T03:17:21.422Z"
+                },
+                "id" : 1624504639698,
+                "image" : "",
+                "latinName" : "Corokia Cotoneaster",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Korokio",
+                "slug" : "korokio"
+              },
+              "1624504657418" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:17:37.418Z"
+                },
+                "id" : 1624504657418,
+                "image" : "",
+                "latinName" : "Cyathea Dealbata",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Ponga",
+                "slug" : "ponga"
+              },
+              "1624504674875" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:17:54.875Z"
+                },
+                "id" : 1624504674875,
+                "image" : "",
+                "latinName" : "Cyathea Medullaris",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Mamaku",
+                "slug" : "mamaku"
+              },
+              "1624504690902" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:18:10.902Z",
+                  "lastModifiedBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "lastModifiedDate" : "2021-06-24T03:18:13.800Z"
+                },
+                "id" : 1624504690902,
+                "image" : "",
+                "latinName" : "Dacrycarpus Dacrydioides",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Kahikatea",
+                "slug" : "kahikatea"
+              },
+              "1624504709304" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:18:29.304Z"
+                },
+                "id" : 1624504709304,
+                "image" : "",
+                "latinName" : "Dianella Nigra",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Turutu",
+                "slug" : "turutu"
+              },
+              "1624504725355" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:18:45.355Z"
+                },
+                "id" : 1624504725355,
+                "image" : "",
+                "latinName" : "Eleocharis Acuta",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Sharp Spike Sedge",
+                "slug" : "sharp-spike-sedge"
+              },
+              "1624504743117" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:19:03.117Z"
+                },
+                "id" : 1624504743117,
+                "image" : "",
+                "latinName" : "Gahnia Setifola",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Māpere",
+                "slug" : "mapere"
+              },
+              "1624504767010" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:19:27.010Z"
+                },
+                "id" : 1624504767010,
+                "image" : "",
+                "latinName" : "Hebe Macrocarpa Var. Latisepala",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Hebe",
+                "slug" : "hebe"
+              },
+              "1624504786796" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:19:46.796Z"
+                },
+                "id" : 1624504786796,
+                "image" : "",
+                "latinName" : "Hebe Stricta",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Koromiko",
+                "slug" : "koromiko"
+              },
+              "1624504843214" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:20:43.214Z"
+                },
+                "id" : 1624504843214,
+                "image" : "",
+                "latinName" : "Knightia Excelsa",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Rewarewa",
+                "slug" : "rewarewa"
+              },
+              "1624504865283" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:21:05.283Z"
+                },
+                "id" : 1624504865283,
+                "image" : "",
+                "latinName" : "Laurelia Novae-zealindae",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Pukatea",
+                "slug" : "pukatea"
+              },
+              "1624504885350" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:21:25.350Z"
+                },
+                "id" : 1624504885350,
+                "image" : "",
+                "latinName" : "Leptospermum Scoparium ",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Mānuka",
+                "slug" : "manuka"
+              },
+              "1624504903027" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T03:21:43.027Z"
+                },
+                "id" : 1624504903027,
+                "image" : "",
+                "latinName" : "Libertia Grandiflora",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Tukauki",
+                "slug" : "tukauki"
+              },
+              "1624527810816" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:43:30.816Z"
+                },
+                "id" : 1624527810816,
+                "image" : "",
+                "latinName" : "Machaearina Articulata",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Jointed Twig Rush",
+                "slug" : "jointed-twig-rush"
+              },
+              "1624527827870" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:43:47.870Z"
+                },
+                "id" : 1624527827870,
+                "image" : "",
+                "latinName" : "Machaerina Sinclarii",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Tuhara",
+                "slug" : "tuhara"
+              },
+              "1624527847420" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:44:07.420Z"
+                },
+                "id" : 1624527847420,
+                "image" : "",
+                "latinName" : "Macropiper Excelsum",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Kawakawa",
+                "slug" : "kawakawa"
+              },
+              "1624527871612" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:44:31.612Z"
+                },
+                "id" : 1624527871612,
+                "image" : "",
+                "latinName" : "Phormium Cookerianum Subs Hookeri",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Wharariki",
+                "slug" : "wharariki"
+              },
+              "1624527889681" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:44:49.681Z"
+                },
+                "id" : 1624527889681,
+                "image" : "",
+                "latinName" : "Phormium Tenax",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Harakeke",
+                "slug" : "harakeke"
+              },
+              "1624527987904" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:46:27.904Z"
+                },
+                "id" : 1624527987904,
+                "image" : "",
+                "latinName" : "Pomaderris Kumeraho",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Kumarahou",
+                "slug" : "kumarahou"
+              },
+              "1624528048324" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:47:28.324Z"
+                },
+                "id" : 1624528048324,
+                "image" : "",
+                "latinName" : "Rhopalostylis Sapida",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Nikau",
+                "slug" : "nikau"
+              },
+              "1624528068580" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:47:48.581Z"
+                },
+                "id" : 1624528068580,
+                "image" : "",
+                "latinName" : "Schoenoplectus Tabernaemontani",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Kāpūngāwhā",
+                "slug" : "kapungawha"
+              },
+              "1624528084081" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:48:04.081Z"
+                },
+                "id" : 1624528084081,
+                "image" : "",
+                "latinName" : "Sophora Microphylla",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Kowhai",
+                "slug" : "kowhai"
+              },
+              "1624528100764" : {
+                "__meta__" : {
+                  "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                  "createdDate" : "2021-06-24T09:48:20.764Z"
+                },
+                "id" : 1624528100764,
+                "image" : "",
+                "latinName" : "Vitex Lucens",
+                "order" : 0,
+                "parentId" : 0,
+                "plantName" : "Puriri",
+                "slug" : "puriri"
+              }
+            }
+          },
+          "history" : {
+            "en-US" : {
+              "__meta__" : {
+                "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                "createdDate" : "2021-06-24T02:58:18.784Z"
+              },
+              "content" : "<p>The area where Awakeri is located provided important access for early Mori travellers and later early settler and military periods. With Manukau Harbour to the west and the Hnua Ranges to the southeast, the Takaanini area formed part of a key passage for Mori between the shores of the Manukau Harbour, Wairoa (Clevedon) and the Hunua Ranges. It was a highly utilised link between Tmaki Makaurau and the Waikato and also formed part of the Ararimu Track, a highly strategic and well-utilised waka route between the Waikato and Hauraki Gulf. The track was noted to have skirted the Papakura Swamp, passing through the Hunua Ranges to the headwaters of the Mangatawhiri Creek; the Papakura Swamp is the location of the Awakeri Wetlands.&nbsp;</p>\n",
+              "id" : "history",
+              "order" : 0,
+              "parentId" : 0,
+              "title" : "History"
+            }
+          },
+          "manaWhenua" : {
+            "en-US" : {
+              "__meta__" : {
+                "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                "createdDate" : "2021-06-24T02:51:57.602Z",
+                "lastModifiedBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+                "lastModifiedDate" : "2021-06-24T03:07:20.725Z"
+              },
+              "content" : "<h3>Te Ākitai Waiohua&nbsp;</h3>\n<p>What's in a name?&nbsp;</p>\n<p>Ihaka Takaanini was the son of Te Ākitai chief Pepene Te Tihi and the great grandson of Kiwi Tamaki, paramount chief of Te Waiohua.&nbsp;</p>\n<p>Many early records refer to Ihaka as Wirihana, which is also the name he gave to his eldest son Te Wirihana Takaanini.&nbsp;</p>\n<p>'Wiri' in South Auckland derives its name from a contraction of Wirihana. The Wirihana and Takaanini names are still used by the Te Ākitai descendants of Ihaka and Te Wirihana to this day.&nbsp;</p>\n<p>[Picture of Awakeri Kowhatu]&nbsp;</p>\n<p>In honor of Ihaka Takaanini Chief of Te Ākitai  c. 1800-1884&nbsp;</p>\n<p>Learn more about Te Ākitai Waiohua by visiting their <a href=\"https://www.teakitai.com/\" target=\"_blank\">website</a>.&nbsp;</p>\n<h3>Ngāti Tamaoho</h3>\n<p>Ngāti Tamaoho is part of the Waiohua confederation of tribes that were original inhabitants in the Tāmaki Makaurau region. Ngāti Tamaoho have three marae Mangatangi, Ngā Hau e Whā and Whātapaka. Their rohe (area of interests) extends from north of the Tamaki Isthmus to south of the Waikato River, to the Whangamarino wetlands. It extends from the West Coast to the Hauraki Gulf/Firth of Thames.&nbsp;</p>\n<p>Learn more about Ngāti Tamaoho by visiting their <a href=\"https://tamaoho.maori.nz/\" target=\"_blank\">website</a>.</p>\n<h3>Ngāti Te Ata Waiohua&nbsp;</h3>\n<p>Ngāti Te Ata Waiohua is part of the Waiohua confederation of tribes that were original inhabitants in the Tāmaki Makaurau region.</p>\n<h3>Ngāi Tai Ki Tāmaki&nbsp;</h3>\n<p>Ngāi Tai ki Tāmaki (Ngāi Tai) are original inhabitants and Iwi of Tāmaki Makaurau. Ngāi Tai is based in Maraetai, Te Waitematā and Tikapa Moana, and exercises mana whenua and mana moana interests across Auckland and the Hauraki Gulf.&nbsp;</p>\n<p>Learn more about Ngāi Tai Ki Tāmaki by visiting their <a href=\"https://www.ngaitaitamaki.iwi.nz/\" target=\"_blank\">website</a>.</p>\n",
+              "id" : "manaWhenua",
+              "order" : 0,
+              "parentId" : 0,
+              "title" : "Mana Whenua"
+            }
+          },
+          "tidyKiwi" : {
+            "en-US" : {
+              "__meta__" : {
+                "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+                "createdDate" : "2021-06-17T20:20:43.906Z",
+                "lastModifiedBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+                "lastModifiedDate" : "2021-06-17T20:25:20.060Z"
+              },
+              "content" : "<h2>Looking after wai and te taiao - te mauri o te wai</h2>\n<h3>You can protect wetlands by:</h3>\n<ul>\n<li>using existing tracks and boardwalks and observing from the edges</li>\n<li>not disturbing wildlife - take binoculars and use bird hides</li>\n<li>maintaining natural flow of water</li>\n<li>cleaning your footwear</li>\n<li>cleaning fishing and boating equipment to stop the spread of Didymo</li>\n<li>keeping litter and garden waste out of wetlands</li>\n<li>keeping dogs from wetland areas</li>\n<li>keeping stock from wetland areas through fencing</li>\n<li>controlling pest plants and animals in and around wetlands.</li>\n</ul>\n",
+              "id" : "tidyKiwi",
+              "order" : 0,
+              "parentId" : 0,
+              "title" : "Tidy Kiwi"
+            }
+          }
+        },
+        "schemas" : {
+          "areasOfInterests" : {
+            "__meta__" : {
+              "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+              "createdDate" : "2021-06-17T21:02:18.580Z"
+            },
+            "description" : "",
+            "enabled" : true,
+            "fields" : [ {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623963723013,
+              "key" : "title",
+              "readOnly" : false,
+              "show" : true,
+              "title" : "Title",
+              "type" : "text"
+            }, {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623963730653,
+              "key" : "content",
+              "readOnly" : false,
+              "show" : false,
+              "title" : "Content",
+              "type" : "wysiwyg"
+            } ],
+            "group" : "Areas of Interests",
+            "icon" : "",
+            "id" : "areasOfInterests",
+            "sortable" : true,
+            "title" : "Areas of Interests",
+            "type" : "single"
+          },
+          "awakeriWetlands" : {
+            "__meta__" : {
+              "createdBy" : "1A0ayNm2CyductaAW0Zj197MYLA2",
+              "createdDate" : "2021-06-17T05:56:42.255Z",
+              "lastModifiedBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+              "lastModifiedDate" : "2021-06-17T18:46:49.074Z"
+            },
+            "description" : "",
+            "enabled" : true,
+            "fields" : [ {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623909364369,
+              "key" : "title",
+              "readOnly" : false,
+              "show" : true,
+              "title" : "Title",
+              "type" : "text"
+            }, {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623909392650,
+              "key" : "content",
+              "readOnly" : false,
+              "show" : false,
+              "title" : "Content",
+              "type" : "wysiwyg"
+            } ],
+            "group" : "Awakeri Wetlands",
+            "icon" : "",
+            "id" : "awakeriWetlands",
+            "sortable" : true,
+            "title" : "Awakeri Wetlands",
+            "type" : "single"
+          },
+          "connectingCommunity" : {
+            "__meta__" : {
+              "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+              "createdDate" : "2021-06-17T21:18:39.844Z",
+              "lastModifiedBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+              "lastModifiedDate" : "2021-06-17T21:19:11.174Z"
+            },
+            "description" : "",
+            "enabled" : true,
+            "fields" : [ {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623964706885,
+              "key" : "title",
+              "readOnly" : false,
+              "show" : true,
+              "title" : "Title",
+              "type" : "text"
+            }, {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623964709639,
+              "key" : "content",
+              "readOnly" : false,
+              "show" : false,
+              "title" : "Content",
+              "type" : "wysiwyg"
+            } ],
+            "group" : "Connecting Community",
+            "icon" : "",
+            "id" : "connectingCommunity",
+            "sortable" : true,
+            "title" : "Connecting Community",
+            "type" : "single"
+          },
+          "floraAndFauna" : {
+            "__meta__" : {
+              "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+              "createdDate" : "2021-06-17T22:28:21.173Z",
+              "lastModifiedBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+              "lastModifiedDate" : "2021-06-24T02:15:08.296Z"
+            },
+            "description" : "",
+            "enabled" : true,
+            "fields" : [ {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623968857537,
+              "key" : "plantName",
+              "readOnly" : false,
+              "show" : true,
+              "title" : "Plant Name",
+              "type" : "text"
+            }, {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623968879448,
+              "key" : "latinName",
+              "readOnly" : false,
+              "show" : false,
+              "title" : "Latin Name",
+              "type" : "text"
+            }, {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623968892869,
+              "key" : "image",
+              "readOnly" : false,
+              "show" : false,
+              "title" : "Image",
+              "type" : "text"
+            }, {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623969511348,
+              "key" : "slug",
+              "linkedField" : "plantName",
+              "manualOverwrite" : false,
+              "readOnly" : false,
+              "show" : false,
+              "title" : "Slug",
+              "transformFunction" : [ "kebabCase" ],
+              "type" : "linked-text"
+            } ],
+            "group" : "Flora and Fauna",
+            "icon" : "",
+            "id" : "floraAndFauna",
+            "sortable" : true,
+            "title" : "Flora and Fauna",
+            "type" : "collection"
+          },
+          "history" : {
+            "__meta__" : {
+              "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+              "createdDate" : "2021-06-24T02:57:51.155Z"
+            },
+            "description" : "",
+            "enabled" : true,
+            "fields" : [ {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623965872582,
+              "key" : "title",
+              "readOnly" : false,
+              "show" : true,
+              "title" : "Title",
+              "type" : "text"
+            }, {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623965873662,
+              "key" : "content",
+              "readOnly" : false,
+              "show" : false,
+              "title" : "Content",
+              "type" : "wysiwyg"
+            } ],
+            "group" : "History",
+            "icon" : "",
+            "id" : "history",
+            "sortable" : true,
+            "title" : "History",
+            "type" : "single"
+          },
+          "manaWhenua" : {
+            "__meta__" : {
+              "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+              "createdDate" : "2021-06-24T02:50:59.801Z"
+            },
+            "description" : "",
+            "enabled" : true,
+            "fields" : [ {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623965872582,
+              "key" : "title",
+              "readOnly" : false,
+              "show" : true,
+              "title" : "Title",
+              "type" : "text"
+            }, {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623965873662,
+              "key" : "content",
+              "readOnly" : false,
+              "show" : false,
+              "title" : "Content",
+              "type" : "wysiwyg"
+            } ],
+            "group" : "Mana Whenua",
+            "icon" : "",
+            "id" : "manaWhenua",
+            "sortable" : true,
+            "title" : "Mana Whenua",
+            "type" : "single"
+          },
+          "tidyKiwi" : {
+            "__meta__" : {
+              "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+              "createdDate" : "2021-06-17T20:18:45.926Z",
+              "lastModifiedBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+              "lastModifiedDate" : "2021-06-17T20:21:35.774Z"
+            },
+            "description" : "",
+            "enabled" : true,
+            "fields" : [ {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623961101354,
+              "key" : "title",
+              "readOnly" : false,
+              "show" : true,
+              "title" : "Title",
+              "type" : "text"
+            }, {
+              "defaultValue" : "",
+              "description" : "",
+              "gridColumns" : {
+                "lg" : 12,
+                "md" : 12,
+                "sm" : 12,
+                "xs" : 12
+              },
+              "hidden" : false,
+              "id" : 1623961269083,
+              "key" : "content",
+              "readOnly" : false,
+              "show" : false,
+              "title" : "Content",
+              "type" : "wysiwyg"
+            } ],
+            "group" : "Tidy Kiwi",
+            "icon" : "",
+            "id" : "tidyKiwi",
+            "sortable" : true,
+            "title" : "Tidy Kiwi",
+            "type" : "single"
+          }
+        }
+      }
+    },
+    "media" : {
+      "files" : {
+        "1623912468093" : {
+          "__meta__" : {
+            "createdBy" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+            "createdDate" : "2021-06-17T06:47:59.136Z"
+          },
+          "contentType" : "image/jpeg",
+          "file" : "img-aw-01.jpg",
+          "folderId" : 1623908204275,
+          "id" : 1623912468093,
+          "sizes" : [ {
+            "height" : 9999,
+            "path" : "375_9999_100",
+            "quality" : 1,
+            "width" : 375
+          }, {
+            "height" : 9999,
+            "path" : "667_9999_100",
+            "quality" : 1,
+            "width" : 667
+          }, {
+            "height" : 9999,
+            "path" : "900_9999_100",
+            "quality" : 1,
+            "width" : 900
+          }, {
+            "height" : 9999,
+            "path" : "1080_9999_100",
+            "quality" : 1,
+            "width" : 1080
+          }, {
+            "height" : 9999,
+            "path" : "1440_9999_100",
+            "quality" : 1,
+            "width" : 1440
+          }, {
+            "height" : 9999,
+            "path" : "1920_9999_100",
+            "quality" : 1,
+            "width" : 1920
+          } ],
+          "type" : "images"
+        },
+        "1624189093352" : {
+          "__meta__" : {
+            "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+            "createdDate" : "2021-06-20T11:38:26.331Z"
+          },
+          "contentType" : "image/jpeg",
+          "file" : "1080px-Taraire2367drupes.jpg",
+          "folderId" : 1623908204275,
+          "id" : 1624189093352,
+          "sizes" : [ {
+            "height" : 9999,
+            "path" : "375_9999_100",
+            "quality" : 1,
+            "width" : 375
+          }, {
+            "height" : 9999,
+            "path" : "667_9999_100",
+            "quality" : 1,
+            "width" : 667
+          }, {
+            "height" : 9999,
+            "path" : "900_9999_100",
+            "quality" : 1,
+            "width" : 900
+          }, {
+            "height" : 9999,
+            "path" : "1080_9999_100",
+            "quality" : 1,
+            "width" : 1080
+          }, {
+            "height" : 9999,
+            "path" : "1440_9999_100",
+            "quality" : 1,
+            "width" : 1440
+          }, {
+            "height" : 9999,
+            "path" : "1920_9999_100",
+            "quality" : 1,
+            "width" : 1920
+          } ],
+          "type" : "images"
+        }
+      },
+      "folders" : {
+        "1623908204275" : {
+          "id" : 1623908204275,
+          "name" : "Root",
+          "order" : 0,
+          "parentId" : 0
+        }
+      }
+    },
+    "permissions" : [ null, {
+      "content" : {
+        "production" : {
+          "areasOfInterests" : {
+            "create" : true,
+            "delete" : true,
+            "update" : true,
+            "view" : true
+          },
+          "awakeriWetlands" : {
+            "create" : true,
+            "delete" : true,
+            "update" : true,
+            "view" : true
+          },
+          "connectingCommunity" : {
+            "create" : true,
+            "delete" : true,
+            "update" : true,
+            "view" : true
+          },
+          "floraAndFauna" : {
+            "create" : true,
+            "delete" : true,
+            "update" : true,
+            "view" : true
+          },
+          "history" : {
+            "create" : true,
+            "delete" : true,
+            "update" : true,
+            "view" : true
+          },
+          "manaWhenua" : {
+            "create" : true,
+            "delete" : true,
+            "update" : true,
+            "view" : true
+          },
+          "manaWhenuaAndHistory" : {
+            "create" : true,
+            "delete" : true,
+            "update" : true,
+            "view" : true
+          },
+          "tidyKiwi" : {
+            "create" : true,
+            "delete" : true,
+            "update" : true,
+            "view" : true
+          }
+        }
+      },
+      "environments" : {
+        "production" : true
+      },
+      "id" : 1,
+      "locales" : {
+        "production" : {
+          "en-US" : {
+            "allow" : true
+          }
+        }
+      },
+      "media" : {
+        "create" : true,
+        "delete" : true,
+        "update" : true,
+        "view" : true
+      },
+      "name" : "Super Admin",
+      "navigation" : {
+        "production" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        }
+      },
+      "permissions" : {
+        "create" : true,
+        "delete" : true,
+        "update" : true,
+        "view" : true
+      },
+      "schemas" : {
+        "production" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        }
+      },
+      "settings" : {
+        "backups" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "customLinks" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "environments" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "general" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "globals" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "locales" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        },
+        "workflows" : {
+          "create" : true,
+          "delete" : true,
+          "update" : true,
+          "view" : true
+        }
+      },
+      "users" : {
+        "create" : true,
+        "delete" : true,
+        "update" : true,
+        "view" : true
+      },
+      "webhooks" : {
+        "create" : true,
+        "delete" : true,
+        "update" : true,
+        "view" : true
+      }
+    } ],
+    "settings" : {
+      "defaultLocale" : "en-US",
+      "environments" : {
+        "production" : {
+          "id" : "production",
+          "name" : "Production"
+        }
+      },
+      "general" : {
+        "defaultPermissionsGroup" : "1",
+        "imageSizes" : [ {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 375
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 667
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 900
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 1080
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 1440
+        }, {
+          "height" : 9999,
+          "quality" : 1,
+          "width" : 1920
+        } ]
+      },
+      "locales" : {
+        "en-US" : {
+          "id" : "en-US",
+          "name" : "English (USA)"
+        }
+      }
+    },
+    "users" : {
+      "1A0ayNm2CyductaAW0Zj197MYLA2" : {
+        "__meta__" : {
+          "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+          "createdDate" : "2021-06-20T09:08:39.433Z",
+          "lastModifiedBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+          "lastModifiedDate" : "2021-06-20T09:08:47.979Z"
+        },
+        "displayName" : "Eddril Lacorte",
+        "email" : "eddril.lacorte@gmail.com",
+        "enabled" : "No",
+        "firstName" : "",
+        "id" : "1A0ayNm2CyductaAW0Zj197MYLA2",
+        "lastName" : "",
+        "permissions" : 1
+      },
+      "GOk2t22PQyOjsuElQGE8FB2RAzy2" : {
+        "displayName" : "Eddril Lacorte",
+        "email" : "laco7@manukaumail.com",
+        "enabled" : "Yes",
+        "firstName" : "",
+        "id" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+        "lastName" : "",
+        "permissions" : 1
+      },
+      "hmzDxux29ZaPprk7m3cTSPCJPJh2" : {
+        "__meta__" : {
+          "createdBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+          "createdDate" : "2021-06-20T09:08:39.434Z",
+          "lastModifiedBy" : "GOk2t22PQyOjsuElQGE8FB2RAzy2",
+          "lastModifiedDate" : "2021-06-20T09:08:47.979Z"
+        },
+        "displayName" : "",
+        "email" : "eddril.lacorte@gmail.com",
+        "enabled" : "No",
+        "firstName" : "",
+        "id" : "hmzDxux29ZaPprk7m3cTSPCJPJh2",
+        "lastName" : "",
+        "permissions" : 1
+      }
+    }
+  }
+}

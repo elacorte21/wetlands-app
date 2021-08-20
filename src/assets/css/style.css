@@ -1,0 +1,240 @@
+body {
+    background: #F1EEE2;
+}
+
+* {
+    border-radius: 0 !important;
+}
+
+h1 {
+    color: #8bc24a;
+    font-size: 32px;
+    font-weight: normal;
+    margin: 3rem 0 1.5rem;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+h3 {
+    margin-top: 2rem;
+    color: #f57374;
+}
+
+h4 {
+    font-size: 1.2rem;
+    margin-bottom: -10px;
+    color: #f57374;
+}
+
+p {
+    line-height: 1.2;
+}
+
+a.MuiButton-textPrimary, a {
+    color: #8bc24a; 
+}
+
+a.btn-green, button.btn-green {
+    background: #8bc24a;
+    color: rgba(0,0,0,0.5);
+}
+
+a.btn-directions {
+    position: fixed;
+    top: 14px;
+    right: 14px;
+}
+
+a.btn-discover {
+    display: inline-block;
+    border: 2px solid #fff;
+    box-shadow: none;
+    font-size: 1.4rem;
+    margin-top: 20vh;
+    box-shadow: none;
+    letter-spacing: 0.5rem;
+    padding: 0.5rem 2rem;
+    background: rgba(0,0,0,0.2) !important;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.btn-back {
+    position: fixed;
+    top: 14px;
+    right: 14px;
+}
+
+.App {
+    display: flex;
+}
+
+.content {
+    flex-grow: 1;
+}
+
+.logo {
+    display: inline-block;
+    width: 80%;
+}
+
+.splash {
+    background: url(../media/awvideo2.gif) center no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding-top: 15vh;
+    text-align: center;
+}
+
+.cardCat {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    right: 0;
+    background: #f57374;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 0.8rem;
+}
+
+.media {
+    height: 140px;
+    background: #eee;
+}
+
+.plantbox {
+    display: inline-block;
+    background: #f57374;
+    color: #fff;
+    position: fixed;
+    top: 20vh;
+    right: 0;
+    padding: 1rem 2rem;
+}
+
+.plantbox h2 {
+    margin: 0.5rem 0;
+    font-weight: normal;
+}
+
+.plantbox span {
+    color: rgba(255,255,255,0.5);
+}
+
+.MuiContainer-root {
+    margin-bottom: 100px;
+}
+
+.MuiBottomNavigation-root {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #BBD629 !important;
+    z-index: 1;
+}
+
+.MuiBottomNavigationAction-root.Mui-selected {
+    color: #fff !important;
+}
+
+.MuiToolbar-regular {
+    min-width: 64px;
+    height: 64px;
+    position: fixed !important;
+    z-index: 1;
+}
+
+.menu button {
+    min-width: 64px;
+    height: 64px;
+}
+
+.MuiList-root h4 {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.MuiList-padding {
+    padding: 0 30px;
+}
+
+.MuiListItem-button a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.MuiCard-root {
+    margin-bottom: 16px;
+}
+
+video {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+}
+
+iframe.map {
+    border: 0;
+    position: fixed;
+    z-index: -1;
+    width: 100%;
+    height: 102vh;
+    top: -56px;
+}
+
+.navbar {
+    padding: .5rem 1rem;
+}
+
+.btnEnter {
+    display: block;
+    position: relative;
+    z-index: 2;
+    margin: 25vh auto 0;
+}
+
+.MuiFormControl-root {
+    width: 100%;
+}
+
+.flickrImg {
+    height: 140px;
+}
+
+@media (min-width:768px) {
+    div.MuiBottomNavigation-root {
+        display: none;
+    }
+}
+
+@media (min-width:997px) {
+    p {
+        line-height: 1.5;
+    }
+
+    div.MuiBottomNavigation-root {
+        display: none;
+    }
+
+    iframe.map {
+        height: 109vh;
+    }
+
+    .splash {
+        width: calc(100vw - 240px);
+    }
+
+    .logo {
+        display: block;
+        width: 35vw;
+        margin: 0 auto;
+    }
+}
